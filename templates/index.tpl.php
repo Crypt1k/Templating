@@ -1,0 +1,9 @@
+<html>
+<head>
+  <title><?=$title?></title>
+</head>
+<body>
+<?=$title?>
+<?=$this->includeFile('article.tpl.php')?>
+</body>
+</html>
