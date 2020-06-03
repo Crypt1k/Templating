@@ -1,4 +1,2 @@
-Templating
-==========
+# Small and simple PHP template engine
 
-Ez Php-temp
