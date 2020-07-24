@@ -1,3 +1,3 @@
 # Small and simple PHP template engine
 
-![Learn Python](index.png)
+![Templating](index.png)
